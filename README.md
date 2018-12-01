@@ -5,6 +5,6 @@ Displays animations for Bluetooth Speaker.
 
 ## Make sure the following libraries are installed:
 
-Adafruit Neomatrix
-Adafruit Neopixel
-Adafruit GFX
+Adafruit Neomatrix,
+Adafruit Neopixel,
+Adafruit GFX,
